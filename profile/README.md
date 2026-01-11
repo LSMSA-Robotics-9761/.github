@@ -1,7 +1,7 @@
 # Welcome to the LSMSA Robotics club official GitHub page!
  - **To all Robotics club personal!** please use this space to discuss code ideas and to all of the code that will be envolved with the robot's develop. Also, use this to share and distribute code. I encourgae you to store backups of officail code on the robot on here is aswell.
 
-##Catalog
+## Catalog ##
  - The catalog is currently being made and will be constantly updated. I suggest constantly checking it for new inventory, whenever you get the chance.
  - If you have any futher questions I suggest contacting @beaubouef3041@student.lsmsa.edu or dorris3162@student.lsmsa.edu for any questions you may have.
 
