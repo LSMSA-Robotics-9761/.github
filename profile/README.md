@@ -5,8 +5,9 @@
  - The catalog is currently being made and will be constantly updated. I suggest constantly checking it for new inventory, whenever you get the chance.
  - If you have any futher questions I suggest contacting London Beaubouef through beaubouef3041@student.lsmsa.edu or Eben Dorris through dorris3162@student.lsmsa.edu for any questions you may have.
 
-#legends 
-<!-- Issac Young -->
+
+<!-- #legends 
+Issac Young -->
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
