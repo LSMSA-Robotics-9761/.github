@@ -1,4 +1,4 @@
-# Welcome to the LSMSA Robotics club official GitHub page!
+# Welcome to LSMSA's Robotics club official GitHub page!
  - **To all Robotics club personal!** please use this space to discuss code ideas and to all of the code that will be envolved with the robot's develop. Also, use this to share and distribute code. I encourgae you to store backups of officail code on the robot on here is aswell.
 
 ## Catalog ##
